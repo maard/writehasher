@@ -1,3 +1,3 @@
-module github.com/maard/csumwriter
+module github.com/maard/writehasher
 
 go 1.17
